@@ -10,7 +10,7 @@ Be sure you have Angular-Cli install.
 
 Starts from stratch  :
 
-ng new [YourProjectName]
+ng new [YourProjectName] </br>
 ng g component heroes
 ng g component detail
 ng g component dashboard
